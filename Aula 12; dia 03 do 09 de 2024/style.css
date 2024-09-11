@@ -1,0 +1,15 @@
+/*
+CASCADING STYLESHEET
+*/
+
+/* ALINHAMENTO, ESPAÇAMENTO
+LARGURA E ALTURA */
+
+header, footer, main {
+    text-align: center;
+}
+
+section.donors {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
